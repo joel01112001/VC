@@ -1,6 +1,7 @@
 Realizado por: Noel Padrón Jiménez y Joel Rodríguez González
 
-Proyecto de Visión por Computador
+Proyecto de Visión por ComputadorImages![image](https://github.com/user-attachments/assets/7c42007e-3249-4ca4-8249-ab1bbd20b3dc)
+
 Descripción:
 Este proyecto implementa diversas tareas de procesamiento de imágenes utilizando técnicas de visión por computador en Python, principalmente a través de la librería OpenCV. A lo largo del proyecto, se desarrollan tareas como la creación de imágenes sintéticas, manipulación de planos de color, y captura de video en tiempo real para detectar características clave de la imagen.
 
