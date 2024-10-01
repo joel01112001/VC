@@ -1,4 +1,5 @@
 Realizado por: Noel Padrón Jiménez y Joel Rodríguez González
+![image](https://github.com/user-attachments/assets/8d0ba9e6-b5aa-4e49-a4c6-84e26632dd23)
 
 Proyecto de Visión por Computador
 Descripción:
